@@ -1,0 +1,18 @@
+{
+    "name": "sauneo/hokus",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sauneo\\Hokus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petr Novák SAUNEO",
+            "email": "petr@sauneo.cz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
